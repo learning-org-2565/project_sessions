@@ -4,4 +4,7 @@
 4. What is needed for the container network to work?
 5. Which clients did you use to connect to the api-server?
 
+=====
+6. How can we decise resource managerment in nodes and pods, based on docker images size? for example we have 10gb of docker container size so based on this, are we design ? or scalability ? how resouce management happend in real time 
+
 
